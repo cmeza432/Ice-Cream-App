@@ -1,2 +1,2 @@
 # Ice-Cream-App
-Ice Cream ordering app
+Ice Cream ordering app using GTK+ for the GUI
